@@ -1,5 +1,7 @@
 # apijs-demo
 
+> 内容同步于 [apijs-demo.xuexb.com](http://apijs-demo.xuexb.com/)
+
 ```
 git clone https://github.com/xuexb/apijs-demo.git
 cd apijs-demo
