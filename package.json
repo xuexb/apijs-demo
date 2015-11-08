@@ -1,0 +1,26 @@
+{
+  "name": "apijs-demo",
+  "version": "1.0.0",
+  "description": "apijs的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuexb/apijs-demo.git"
+  },
+  "keywords": [
+    "apijs"
+  ],
+  "author": "xieaowu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuexb/apijs-demo/issues"
+  },
+  "homepage": "https://github.com/xuexb/apijs-demo#readme",
+  "dependencies": {
+    "apijs": "0.0.3"
+  }
+}
