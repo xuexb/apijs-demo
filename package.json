@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/xuexb/apijs-demo#readme",
   "dependencies": {
-    "apijs": "0.0.3"
+    "apijs": "*"
   }
 }
